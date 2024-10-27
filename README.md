@@ -1,11 +1,14 @@
 # Players_NHL_Cities
 
-Este es un proyecto sobre estadísticas de hockey o al menos ese es el objetivo.
+This project is focused on hockey statistics, specifically related to player birthplaces in the NHL.
 
-Dejo en la carpeta /Data_csv archivos .csv con información valiosa recopilada directamente de la api nhle de la NHL. 
-La obtención de los datos, códigos y técnicas utilizadas se puede ver en los archivos python.
+In the /Data_csv folder, you'll find .csv files containing valuable data collected directly from the NHL API (nhle). The data extraction, codes, and techniques used to gather this information are available in the Python files within the repository.
 
 ## Gráfico de Jugadores
-A continuación, dejo un gráfico que muestra el lugar de nacimiento de los jugadores registrados en la NHL y que han sido parte de alguna temporada desde el año 2000.
+Below, you'll find a graph showing the birthplace of players registered in the NHL who have participated in any season from the year 2000 up to the current 2024-2025 season.
 
-[See Graph Birthplace Players](https://fcolper.github.io/Players_NHL_Cities/Players_20242025_WorldMaps.html)
+[See Graph Birthplace Players since season 2000 to 2024](https://fcolper.github.io/Players_NHL_Cities/Players_20002025_WorldMaps.html)
+
+También dejo otro gráfico sobre las ciudades y paises de nacimiento de los actuales jugadores de hockey de la NHL en la temporada actual 2024-2025.
+
+[See Graph Birthplace Players current season (2024-2025)](https://fcolper.github.io/Players_NHL_Cities/Players_20242025_WorldMaps.html)
