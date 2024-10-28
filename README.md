@@ -12,3 +12,5 @@ Below, you'll find a graph showing the birthplace of players registered in the N
 También dejo otro gráfico sobre las ciudades y paises de nacimiento de los actuales jugadores de hockey de la NHL en la temporada actual 2024-2025.
 
 [See Graph Birthplace Players current season (2024-2025)](https://fcolper.github.io/Players_NHL_Cities/Players_20242025_WorldMaps.html)
+
+![image](https://github.com/user-attachments/assets/ae3bd996-c5ba-435d-ac41-76372ebfa5ae)
