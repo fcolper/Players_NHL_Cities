@@ -13,4 +13,5 @@ También dejo otro gráfico sobre las ciudades y paises de nacimiento de los act
 
 [See Graph Birthplace Players current season (2024-2025)](https://fcolper.github.io/Players_NHL_Cities/Players_20242025_WorldMaps.html)
 
-![image](https://github.com/user-attachments/assets/ae3bd996-c5ba-435d-ac41-76372ebfa5ae)
+![image](https://github.com/user-attachments/assets/87d08955-4ea5-44ac-81ac-6a74be122711)
+
